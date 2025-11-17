@@ -14,7 +14,7 @@ st.write("This app visualizes the performance of an XGBoost model on test data."
 # --- Load Data (with caching) ---
 @st.cache
 def load_data():
-    data = pd.read_csv('C:/Users/USER/Skill Dev/Main Porto/test_results_for_dashboard.csv')
+    data = pd.read_csv('test_results_for_dashboard.csv')
     data['Date'] = pd.to_datetime(data['Date'])
     return data
 
