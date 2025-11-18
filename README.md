@@ -2,9 +2,7 @@
 
 This project predicts weekly sales for Walmart departments using machine learning. It analyzes the impact of weather, holidays, and store-level data, culminating in an interactive dashboard built with Streamlit.
 
-### 🚀 [View the Live Streamlit App!](YOUR_STREAMLIT_APP_URL)
-
-*(Go to your Streamlit app, copy its URL, and paste it above)*
+### 🚀 [View the Live Streamlit App!](https://walmart-sales-prediction-eydj6qjxmxfcjtyhck8unm.streamlit.app/)
 
 ---
 
